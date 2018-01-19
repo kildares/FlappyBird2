@@ -1,5 +1,5 @@
 # FlappyBird2
-This is a personal project which replicates the Flappy Bird game. 
+This is a personal project which replicates the Flappy Bird game in an Android environment. 
 The development of this game has been done by using the game libray LIBGDX.
 In the game you have to accumulate points by going through the pipes. The more pipes you go through, the more points you get. 
 The source code is pretty straightforward, it intantiates pipes and the bird objects and checks if the bird has collided with any pipes. 
